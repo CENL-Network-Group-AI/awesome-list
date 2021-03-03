@@ -1,11 +1,11 @@
 <!--lint ignore awesome-github-->
-# Awesome AI in Libraries 
+# Awesome AI in Libraries [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Libraries hold an increasing amount of digital data that can be extracted, analysed and processed using different AI methods for different use cases. Some libraries manage this internally, others set up projects and others yet have a dedicated labs environment.
 
 ## Contents
 * [Training/Documentation](#trainingdocumentation)
-* [AI Initiatives] (#ai-intiatives)
+* [AI Initiatives] (#ai-initiatives)
 * [Community Resources](#community-resources)
   * [Other Awesome Lists](#other-awesome-lists)
   * [Blogs and Scholarship](#blogs-and-scholarship)

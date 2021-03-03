@@ -5,7 +5,7 @@ Libraries hold an increasing amount of digital data that can be extracted, analy
 
 ## Contents
 * [Training/Documentation](#trainingdocumentation)
-* [AI Initiatives] (#ai-initiatives)
+* [AI Initiatives](#ai-initiatives)
 * [Community Resources](#community-resources)
   * [Other Awesome Lists](#other-awesome-lists)
   * [Blogs and Scholarship](#blogs-and-scholarship)

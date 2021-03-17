@@ -14,11 +14,20 @@ Libraries hold an increasing amount of digital data that can be extracted, analy
 ## Training/Documentation
 * Introductions to AI in the library sector
 
-## AI Initiatives
+## AI Initiatives in Europe
+
+### Research projects
+- [NewsEye](https://www.newseye.eu/), funded by the European Union’s Horizon 2020 research and innovation programme, is a research project advancing the state of the art and introducing new concepts, methods and tools for digital humanities by providing enhanced access to historical newspapers. NewsEye makes use of AI approaches for document analysis, OCR, text analysis.
+- [Impresso](https://impresso-project.ch/). The objective of the project "Media monitoring of the past. Mining 200 years of historical newspapers" is to enable critical text mining of newspaper archives with the implementation of computational linguistics tools to extract, process, link, and explore data from print media archives.
+- Living with Machines
+
+### Internal projects
+
 
 ## Community Resources
 
 ### Other Awesome Lists
+
 
 ### Blogs and Scholarship
 

@@ -3,6 +3,8 @@
 
 Libraries hold an increasing amount of digital data that can be extracted, analysed and processed using different AI methods for different use cases. Some libraries manage this internally, others set up projects and others yet have a dedicated labs environment.
 
+Please feel free to populate this list with your project and initiative () or drop an email to cenl.ng.ai@gmail.com to inform us about it.
+
 ## Contents
 * [Training/Documentation](#trainingdocumentation)
 * [AI Initiatives](#ai-initiatives)

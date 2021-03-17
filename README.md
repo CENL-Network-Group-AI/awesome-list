@@ -27,6 +27,8 @@ Libraries hold an increasing amount of digital data that can be extracted, analy
 ## Community Resources
 
 ### Other Awesome Lists
+- [Ai4lam Look Book](https://docs.google.com/presentation/d/1iWG9RpPaMlikUAe8mfVlYQeoCiNH8ct2ILFtbMI7P_o/edit#slide=id.p) : Knowledge Base of AI 
+Projects in Libraries, Archives and Museums from the [ai4lam.org](https://sites.google.com/view/ai4lam) international initiative.
 
 
 ### Blogs and Scholarship

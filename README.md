@@ -35,6 +35,10 @@ Please feel free to populate this list with your project or initiative ([how-to]
   - [NoTraM - Norwegian Transformer Model](https://github.com/NBAiLab/notram), a transformer-based model for the Norwegian language
 - Helsinki Central Library Oodi:  [Headai](https://medium.com/headai-customer-stories/customer-story-oodi-1d1ef2554bb6), a virtual information assistant 
 
+### Tools and services 
+- [Transkribus](https://readcoop.eu/transkribus/): a platform for the transcription, recognition and searching of historical documents
+- [Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/), university of Oxford: computer vision tools for Digital Humanities
+- [DANE (Distributed Annotation ‘n’ Enrichment)](https://dane.readthedocs.io/en/latest/index.html), Netherlands institute of Sound and Vision 
 
 ## Community Resources
 

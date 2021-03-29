@@ -45,7 +45,7 @@ Please feel free to populate this list with your project or initiative ([how-to]
 ### Other Awesome Lists
 - [Ai4lam Look Book](https://docs.google.com/presentation/d/1iWG9RpPaMlikUAe8mfVlYQeoCiNH8ct2ILFtbMI7P_o/edit#slide=id.p) : Knowledge Base of AI 
 Projects in Libraries, Archives and Museums from the [ai4lam.org](https://sites.google.com/view/ai4lam) international initiative.
-
+- [The Museums + AI Network](https://themuseumsai.network/about). List of Artificial Intelligence (AI) [initiatives in museums](https://docs.google.com/spreadsheets/d/1A7IVnucQZ0ICxYSOCjqQ1oV3xGgNzDKtIYGrk6smV7w/edit#gid=0)
 
 ### Blogs and Scholarship
 

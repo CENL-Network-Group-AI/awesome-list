@@ -4,7 +4,11 @@
 
 ## Image
 
+### General presentation
+
 [IFLA Galway 2022 presentation](https://www.universityofgalway.ie/ifla/abstracts/): [slides](https://docs.google.com/presentation/d/1RbUvVw8mr3DVKfKncGBMeq9s0mbDT_LEmNfpgZ8Zuws/) 
+
+### Work
 
 [GallicaPix](https://gallicapix.bnf.fr/), hybrid retrieval of heritage images. [Github](https://github.com/altomator/Image_Retrieval) 
 

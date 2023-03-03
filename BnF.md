@@ -1,8 +1,8 @@
 # BnF PoC and applications of AI 
 
-[AI at the BnF](https://www.bnf.fr/fr/feuille-de-route-ia): roadmap ([EN version](https://www.bnf.fr/en/digital-roadmap))
+[AI at the BnF](https://www.bnf.fr/fr/feuille-de-route-ia): roadmap ([EN poster](https://www.bnf.fr/sites/default/files/2022-01/Poster_AI%20Roadmap_BnF_202112.pdf))
 
-## Image
+## A. Image
 
 ### General presentation
 
@@ -22,8 +22,8 @@ See also: [poster](https://www.bnf.fr/sites/default/files/2022-05/Poster_Gallica
 [IIIF and ML](https://github.com/altomator/IIIF): experimentation with Gallica content
 
 
-## Text
+## B. Text
 
 
 
-## Data
+## C. Data

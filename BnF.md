@@ -35,5 +35,5 @@ OCR
 
 Personalised content recommendation (research project in collaboration with SCAI/Sorbonne Université, 2022-2023)
 
-ALGOCOL: Decision support for the conservation and management of collections
+[ALGOCOL](https://actions-recherche.bnf.fr/BnF/anirw3.nsf/IX01/A2022000001_dalgocol-fouille-de-donnees-et-algorithmes-de-prediction-de-l-etat-des-collections): Decision support for the conservation and management of collections
 

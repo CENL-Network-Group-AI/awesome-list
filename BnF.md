@@ -1,4 +1,4 @@
-# BnF PoC and applications of AI 
+# BnF PoCs and applications of AI 
 
 [AI at the BnF](https://www.bnf.fr/fr/feuille-de-route-ia): roadmap ([EN poster](https://www.bnf.fr/sites/default/files/2022-01/Poster_AI%20Roadmap_BnF_202112.pdf))
 

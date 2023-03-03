@@ -17,7 +17,7 @@ See also: [poster](https://www.bnf.fr/sites/default/files/2022-05/Poster_Gallica
 
 [JADIS](https://bnf-jadis.github.io), semantic segmentation of heritage maps. [Github](https://github.com/BnF-jadis)
 
-CLIP model
+[Dataiku](https://gallery.dataiku.com/projects/EX_CLIP/) experimentation: CLIP model and heritage images
 
 
 

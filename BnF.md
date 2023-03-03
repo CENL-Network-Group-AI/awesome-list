@@ -1,6 +1,6 @@
 # BnF PoC and applications of AI 
 
-
+[AI at the BnF](https://www.bnf.fr/fr/feuille-de-route-ia): roadmap ([EN version](https://www.bnf.fr/en/digital-roadmap))
 
 ## Image
 
@@ -19,6 +19,7 @@ See also: [poster](https://www.bnf.fr/sites/default/files/2022-05/Poster_Gallica
 
 [Dataiku](https://gallery.dataiku.com/projects/EX_CLIP/) experimentation: CLIP model and heritage images
 
+[IIIF and ML](https://github.com/altomator/IIIF): experimentation with Gallica content
 
 
 ## Text

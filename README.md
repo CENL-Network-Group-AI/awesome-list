@@ -6,15 +6,15 @@ Libraries hold an increasing amount of digital data that can be extracted, analy
 Please feel free to populate this list with your project or initiative ([how-to](https://github.com/sindresorhus/awesome/blob/main/contributing.md)) or drop an email to cenl.ng.ai@gmail.com to inform us about it.
 
 ## Contents
-* [Training/Documentation](#trainingdocumentation)
 * [AI Initiatives](#ai-initiatives)
 * [Community Resources](#community-resources)
   * [Other Awesome Lists](#other-awesome-lists)
   * [Blogs and Scholarship](#blogs-and-scholarship)
   * [Mailing Lists](#mailing-lists)
 
-## Training/Documentation
-* Introductions to AI in the library sector
+## Training/Documentation for GLAM practitioner
+- [Programming Historian](https://programminghistorian.org/)
+- [Library Carpentry](https://librarycarpentry.org/)
 
 ## AI Initiatives in Europe
 
@@ -49,6 +49,4 @@ Projects in Libraries, Archives and Museums from the [ai4lam.org](https://sites.
 - [The Museums + AI Network](https://themuseumsai.network/about). List of Artificial Intelligence (AI) [initiatives in museums](https://docs.google.com/spreadsheets/d/1A7IVnucQZ0ICxYSOCjqQ1oV3xGgNzDKtIYGrk6smV7w/edit#gid=0)
 - [AI:CULT - Culturally aware AI](https://www.cultural-ai.nl/projects/aicult-culturally-aware-ai)
 
-### Blogs and Scholarship
 
-### Mailing Lists

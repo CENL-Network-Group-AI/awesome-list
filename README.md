@@ -5,14 +5,14 @@ Libraries hold an increasing amount of digital data that can be extracted, analy
 
 Please feel free to populate this list with your project or initiative ([how-to](https://github.com/sindresorhus/awesome/blob/main/contributing.md)) or drop an email to cenl.ng.ai@gmail.com to inform us about it.
 
-## Contents
+## Content
+* [Training](#training-for-GLAM-practitioners)
 * [AI Initiatives](#ai-initiatives)
 * [Community Resources](#community-resources)
   * [Other Awesome Lists](#other-awesome-lists)
-  * [Blogs and Scholarship](#blogs-and-scholarship)
-  * [Mailing Lists](#mailing-lists)
 
-## Training/Documentation for GLAM practitioner
+
+## Training for GLAM practitioners
 - [Programming Historian](https://programminghistorian.org/)
 - [Library Carpentry](https://librarycarpentry.org/)
 

@@ -10,20 +10,30 @@
 
 ### Work
 
-[GallicaPix](https://gallicapix.bnf.fr/), hybrid retrieval of heritage images. [Github](https://github.com/altomator/Image_Retrieval) 
+[GallicaPix](https://gallicapix.bnf.fr/), hybrid retrieval of heritage images (in-house PoC, 2017). [Github](https://github.com/altomator/Image_Retrieval) 
 
-[GallicaSnoop](https://snoop.inria.fr/bnf/login), visual similarity engine. Cooperation with INA and [INRIA](https://hal.science/hal-02096036).
+[GallicaSnoop](https://snoop.inria.fr/bnf/login), visual similarity engine (research project, collaboration with INA and [INRIA](https://hal.science/hal-02096036), 2018-). 
 See also: [poster](https://www.bnf.fr/sites/default/files/2022-05/Poster_Gallica_Snoop.pdf), [presentation](https://www.culture.gouv.fr/Media/Thematiques/Innovation-numerique/Folder/Atelier-INRIA-2019/GallicaSnoop)
 
-[JADIS](https://bnf-jadis.github.io), semantic segmentation of heritage maps. [Github](https://github.com/BnF-jadis)
+[JADIS](https://bnf-jadis.github.io), semantic segmentation of heritage maps (master student project, collaboration with EPFL, 2019). [Github](https://github.com/BnF-jadis)
 
-[Dataiku](https://gallery.dataiku.com/projects/EX_CLIP/) experimentation: CLIP model and heritage images
+[Dataiku DSS](https://gallery.dataiku.com/projects/EX_CLIP/) experimentation (partnership with Dataiku, 2022): CLIP model and heritage images
 
-[IIIF and ML](https://github.com/altomator/IIIF): experimentation with Gallica content
+[IIIF and ML](https://github.com/altomator/IIIF): experimentation with Gallica content (in-house PoCs, 2020-)
 
 
 ## B. Text
 
+### Work
+
+HTR
+
+OCR
 
 
 ## C. Data
+
+Personalised content recommendation (research project in collaboration with SCAI/Sorbonne Université, 2022-2023)
+
+ALGOCOL: Decision support for the conservation and management of collections
+

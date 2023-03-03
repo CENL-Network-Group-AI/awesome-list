@@ -27,10 +27,10 @@ Please feel free to populate this list with your project or initiative ([how-to]
 - National Library Finland:
   - [Automatic description of digital data](https://www.cenl.org/national-library-finland-high-performance-digitisation-giving-a-boost-to-the-description-of-digital-data/) using an intelligent annotation pipeline for semi-automated annotation (adding metadata) and enrichment of archived material, such as newspapers, books and official documents.
   - [Annif](https://annif.org/): tool for automated subject indexing and classification
-- *Bibliothèque nationale de France*: 
+- **Bibliothèque nationale de France**: 
   - [GallicaPix](https://gallicapix.bnf.fr/), hybrid retrieval of heritage images 
   - [GallicaSnoop](https://snoop.inria.fr/bnf/login), visual similarity engine
-  - Lookf for more [here](https://github.com/CENL-Network-Group-AI/awesome-list/blob/main/BnF.md)
+  - *Look for more [here](https://github.com/CENL-Network-Group-AI/awesome-list/blob/main/BnF.md)*
 - National Library of Norway:
   - Machine Learning and the Dewey Decimal ([conference presentation](https://nkos-eu.github.io/2019/content/NKOS2019-presentation-wetjen.pdf), NKOS 2019; [conference paper](http://library.ifla.org/id/eprint/2216), IFLA WLIC 2018)
   - [NoTraM - Norwegian Transformer Model](https://github.com/NBAiLab/notram), a transformer-based model for the Norwegian language

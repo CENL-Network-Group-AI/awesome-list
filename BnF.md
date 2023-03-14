@@ -17,7 +17,7 @@ See also: [poster](https://www.bnf.fr/sites/default/files/2022-05/Poster_Gallica
 
 [JADIS](https://bnf-jadis.github.io), semantic segmentation of heritage maps (master student project, collaboration with EPFL, 2019). [Github](https://github.com/BnF-jadis)
 
-CLIP model and heritage images: [Dataiku DSS](https://gallery.dataiku.com/projects/EX_CLIP/) experimentation (partnership with Dataiku, 2022); [Flask web app](https://github.com/altomator/CLIP_test/)
+CLIP model and heritage images: [Dataiku DSS](https://gallery.dataiku.com/projects/EX_CLIP/) experimentation on japanese engravings (partnership with Dataiku, 2022); in-house [Flask web app](https://github.com/altomator/CLIP_test/)
 
 [IIIF and ML](https://github.com/altomator/IIIF): experimentation with Gallica content (in-house PoCs, 2020-)
 

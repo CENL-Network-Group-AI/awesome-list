@@ -24,18 +24,18 @@ Please feel free to populate this list with your project or initiative ([how-to]
 - [Living with Machines](https://livingwithmachines.ac.uk/) (Turing Institute, British Library) is a research project that rethinks the impact of technology on the lives of ordinary people during the Industrial Revolution
 
 ### Internal projects
-- National Library Finland:
+- **National Library Finland**:
   - [Automatic description of digital data](https://www.cenl.org/national-library-finland-high-performance-digitisation-giving-a-boost-to-the-description-of-digital-data/) using an intelligent annotation pipeline for semi-automated annotation (adding metadata) and enrichment of archived material, such as newspapers, books and official documents.
   - [Annif](https://annif.org/): tool for automated subject indexing and classification
 - **Bibliothèque nationale de France**: 
   - [GallicaPix](https://gallicapix.bnf.fr/), hybrid retrieval of heritage images 
   - [GallicaSnoop](https://snoop.inria.fr/bnf/login), visual similarity engine
   - *Look for more [here](https://github.com/CENL-Network-Group-AI/awesome-list/blob/main/BnF.md)*
-- National Library of Norway:
+- **National Library of Norway**:
   - Machine Learning and the Dewey Decimal ([conference presentation](https://nkos-eu.github.io/2019/content/NKOS2019-presentation-wetjen.pdf), NKOS 2019; [conference paper](http://library.ifla.org/id/eprint/2216), IFLA WLIC 2018)
   - [NoTraM - Norwegian Transformer Model](https://github.com/NBAiLab/notram), a transformer-based model for the Norwegian language
 - Helsinki Central Library Oodi:  [Headai](https://medium.com/headai-customer-stories/customer-story-oodi-1d1ef2554bb6), a virtual information assistant 
-- Royal Library of Belgium : [Cataloguing Books](https://www.realdolmen.com/en/case-study/artificial-intelligence-helps-royal-library-of-belgium), a tool developed in Windows Powerapps, that detects metadata based on title page (title, author, publisher, and so on). Future developments: detection of type of page (is the page to be treated a title page, or a colophon, or back cover), and based on the results, other actions (title pages: metadata title, author, publisher), colophon (detect metadata isbn, legal deposit number, names, publisher), and back cover (subject indexing)
+- **Royal Library of Belgium** : [Cataloguing Books](https://www.realdolmen.com/en/case-study/artificial-intelligence-helps-royal-library-of-belgium), a tool developed in Windows Powerapps, that detects metadata based on title page (title, author, publisher, and so on). Future developments: detection of type of page (is the page to be treated a title page, or a colophon, or back cover), and based on the results, other actions (title pages: metadata title, author, publisher), colophon (detect metadata isbn, legal deposit number, names, publisher), and back cover (subject indexing)
 - ...
 
 

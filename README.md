@@ -24,7 +24,7 @@ Please feel free to populate this list with your project or initiative ([how-to]
 - [Living with Machines](https://livingwithmachines.ac.uk/) (Turing Institute, British Library) is a research project that rethinks the impact of technology on the lives of ordinary people during the Industrial Revolution
 
 ### Internal projects
-- **National Library Finland**:
+- **National Library of Finland**:
   - [Automatic description of digital data](https://www.cenl.org/national-library-finland-high-performance-digitisation-giving-a-boost-to-the-description-of-digital-data/) using an intelligent annotation pipeline for semi-automated annotation (adding metadata) and enrichment of archived material, such as newspapers, books and official documents.
   - [Annif](https://annif.org/): tool for automated subject indexing and classification
 - **Bibliothèque nationale de France**: 

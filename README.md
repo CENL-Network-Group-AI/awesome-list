@@ -30,7 +30,7 @@ Please feel free to populate this list with your project or initiative ([how-to]
 - **Bibliothèque nationale de France**: 
   - [GallicaPix](https://gallicapix.bnf.fr/), hybrid retrieval of heritage images with use of trained classification models and commercial AI APIs.
   - [GallicaSnoop](https://snoop.inria.fr/bnf/login), visual similarity engine
-  - *Look for more [here](https://github.com/CENL-Network-Group-AI/awesome-list/blob/main/BnF.md)*
+  - *See more projects [here](https://github.com/CENL-Network-Group-AI/awesome-list/blob/main/BnF.md)*
 - **National Library of Norway**:
   - Machine Learning and the Dewey Decimal ([conference presentation](https://nkos-eu.github.io/2019/content/NKOS2019-presentation-wetjen.pdf), NKOS 2019; [conference paper](http://library.ifla.org/id/eprint/2216), IFLA WLIC 2018)
   - [NoTraM - Norwegian Transformer Model](https://github.com/NBAiLab/notram), a transformer-based model for the Norwegian language

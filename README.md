@@ -39,8 +39,8 @@ Please feel free to populate this list with your project or initiative ([how-to]
 - **Swiss National Library**: [Automatic Classification of e-Dissertations](https://github.com/CENL-Network-Group-AI/awesome-list/blob/main/presentations/CENL_AI_Marcel_Gygli.pdf) The National Library of Switzerland receives one copy each of dissertations produced in Switzerland from university libraries, a large proportion of which are now digital. The dissertations are to be classified into one of the approximately 100 subject groups. The aim of this project is to test open source algorithms that automatically classify the theses. 
 - **German National Library (DNB)**: [Automatic subject indexing with Annif](https://swib.org/swib21/slides/03-02-uhlmann.pdf)
 - **National Library of Luxembourg**: 
--- [Fine grained language identification in multilingual corpus with OCR errors](https://github.com/CENL-Network-Group-AI/awesome-list/blob/main/presentations/CENL_AI_Yves_Maurer.pdf) The project describes how the BnL identified 18 different languages in a 8 million articles collection, ranging from majority languages like French and German to minority cases like Latin or Esperanto using a combination of different existing models and dictionaries.
--- [OCR post-correction](https://github.com/natliblux/nautilusocr)
+ - [Fine grained language identification in multilingual corpus with OCR errors](https://github.com/CENL-Network-Group-AI/awesome-list/blob/main/presentations/CENL_AI_Yves_Maurer.pdf) The project describes how the BnL identified 18 different languages in a 8 million articles collection, ranging from majority languages like French and German to minority cases like Latin or Esperanto using a combination of different existing models and dictionaries.
+ - [OCR post-correction](https://github.com/natliblux/nautilusocr) This project aims at ennhancing the OCR quality of original METS/ALTO packages.
 
 ### Tools and services 
 - [Transkribus](https://readcoop.eu/transkribus/): a platform for the transcription, recognition and searching of historical documents

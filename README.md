@@ -16,6 +16,8 @@ Please feel free to populate this list with your project or initiative ([how-to]
 - [Programming Historian](https://programminghistorian.org/)
 - [Library Carpentry](https://librarycarpentry.org/)
 
+CENL "AI in Libraries" webinars serie: see the 2023 presentations on the [CENL web site](https://www.cenl.org/network-group-ai-in-libraries-webinars-2023/).
+
 ## AI Initiatives in Europe
 
 ### Research projects

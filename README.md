@@ -48,6 +48,7 @@ CENL "AI in Libraries" webinars serie: see the 2023 presentations on the [CENL w
 - [Transkribus](https://readcoop.eu/transkribus/): a platform for the transcription, recognition and searching of historical documents
 - [Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/), university of Oxford: computer vision tools for Digital Humanities
 - [DANE (Distributed Annotation ‘n’ Enrichment)](https://dane.readthedocs.io/en/latest/index.html), Netherlands institute of Sound and Vision 
+- [Finto AI](https://ai.finto.fi/), a service for automatic subject indexing. Based on [Annif](https://annif.org/)
 
 ## Community Resources
 
